@@ -1,1 +1,35 @@
 /* Empty. Add your own CSS if you like */
+.test
+{
+margin-top:50px;
+
+}
+.imag1
+{
+width:350px;
+
+}
+.logincss
+{  background-image: url(../img/1.jpg);
+}
+
+
+
+.main1
+{
+margin-top:150px;
+}
+
+.item.item-input {
+    background-color: transparent;
+    color:#fff;
+}
+.editorcss
+
+{
+margin-top:45px;
+}
+.note
+{
+margin-top:40px;
+}
